@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Tyme4Chg_
+namespace Tyme4Chg
 {
     public class BundleConfig
     {
