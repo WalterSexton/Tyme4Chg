@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Tyme4Chg_
+namespace Tyme4Chg
 {
     public class RouteConfig
     {

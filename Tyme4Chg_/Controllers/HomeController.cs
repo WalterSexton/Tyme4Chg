@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Tyme4Chg_.Controllers
+namespace Tyme4Chg.Controllers
 {
     public class HomeController : Controller
     {

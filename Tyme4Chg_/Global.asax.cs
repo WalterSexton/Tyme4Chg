@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace Tyme4Chg_
+namespace Tyme4Chg
 {
     public class MvcApplication : System.Web.HttpApplication
     {
